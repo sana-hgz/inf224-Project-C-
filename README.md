@@ -1,4 +1,4 @@
-Build & Run
+
 Commencer par lancer le serveur : Dans le dossier cpp, lancer : make pour compiler puis make run (Parfois il faut supprimer le fichier depend-myprog avant. On peut faire ceci soit manuellement soit via la ligne de commande en tapant rm depend-myprog puis make clean)
 Le serveur se mettra en écoute sur le port 3331
 Puis lancer le client swing : Dans le dossier swing, lancer : make run
